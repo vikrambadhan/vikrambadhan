@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, Node and Web Development**
 
-- 📫 How to reach me **vb2174@nyu.edu**
+- 📫 How to reach me **vikram.badhan@gmail.com**
 
 - ⚡ Fun fact **I am a Code Whisperer**
 
