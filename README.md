@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vikram Badhan</h1>
 <h3 align="center">A passionate Software Developer from United States</h3>
 
+<img align="right" alt="Coding" width="400" src="https://ik.imagekit.io/dresma/Dresma_Library/manager-openings_NW3bXTTFP.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikrambadhan&label=Profile%20views&color=0e75b6&style=flat" alt="vikrambadhan" /> </p>
 
 - 🌱 I’m currently learning **AI, ML & Finance**
